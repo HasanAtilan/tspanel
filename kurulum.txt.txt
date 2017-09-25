@@ -1,0 +1,14 @@
+PANEL YAPIMCISI HASAN ATILANDIR.
+
+
+Kurulum!
+
+YedekAl.php 35. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+inc/ac.php 34. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+inc/kapat.php 36. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+inc/sunucuolustur.php 81. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+baglanti/baglan.php 3. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+baglanti/panelbaglan.php 3. Satırdaki Yere Yatqa Şifrenizi ve İpinizi Giriniz!
+baglanti/database.php Girerek MYSQL Ayarlarınızı Giriniz
+
+Ve Sistem Tamamdır Panel Sorunsuzdur!

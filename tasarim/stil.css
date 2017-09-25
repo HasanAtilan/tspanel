@@ -1,0 +1,48 @@
+
+
+/* ust */
+	.ust{
+		background: #1E6C9A url('../tasarim/banner.jpg') no-repeat;
+		background-size: cover;
+		top:0;
+		height: 15%;
+		color: #444;
+	}
+
+	.ust table{
+		width: 100%;
+		text-align: center;
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+
+	.ust table th{
+		font-weight: normal;
+		padding: 10px;
+		margin: 5px;
+		background: rgba(249, 249, 249, 0.89);
+	}
+
+	.ust table td{
+		color: #fff;
+	    border-bottom: 1px solid #4fbeff;
+	    cursor: pointer;
+	    padding: 5px;
+	    margin: 5px;
+	    background: rgba(15, 69, 122, 0.7);
+	}
+
+	.ust table td img{
+		height: 32px;
+		width: 32px
+		border:0;
+	}
+
+	.ust div{
+	    background: rgba(0, 0, 0, 0.75);
+	    color: #fff;
+	    width: 560px;
+	    height: 50px;
+	    margin: 65px 30px;
+	    line-height: 50px;
+	}
