@@ -200,29 +200,29 @@ if( isset($_GET['yedek']) ) {
 
             <div class="list-group">
 
-              <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=anasayfa"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Ana Sayfa</a>
+              <a class="list-group-item" href="index.php?sayfa=anasayfa"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp; Ana Sayfa</a>
 
-              <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=sunucuyuduzenle"><i class="fa fa-server fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Düzenle</a>
+              <a class="list-group-item" href="index.php?sayfa=sunucuyuduzenle"><i class="fa fa-server fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Düzenle</a>
 
-			  <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=yetkikodu"><i class="fa fa-server fa-fw" aria-hidden="true"></i>&nbsp; Yetkiler</a>
+			  <a class="list-group-item" href="index.php?sayfa=yetkikodu"><i class="fa fa-server fa-fw" aria-hidden="true"></i>&nbsp; Yetkiler</a>
 			  
-              <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=kullanicikick"><i class="fa fa-plus-circle fa-fw" aria-hidden="true"></i>&nbsp; Kullanıcı Kickle</a>
+              <a class="list-group-item" href="index.php?sayfa=kullanicikick"><i class="fa fa-plus-circle fa-fw" aria-hidden="true"></i>&nbsp; Kullanıcı Kickle</a>
 			  
-			  <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=kullaniciban"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i>&nbsp; Kullanıcı Yasakla</a>
+			  <a class="list-group-item" href="index.php?sayfa=kullaniciban"><i class="fa fa-cogs fa-fw" aria-hidden="true"></i>&nbsp; Kullanıcı Yasakla</a>
 			  
-			  <a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=sunucumesaj"><i class="fa fa-wrench fa-fw" aria-hidden="true"></i>&nbsp; Sunucuya Mesaj Gönder</a>
+			  <a class="list-group-item" href="index.php?sayfa=sunucumesaj"><i class="fa fa-wrench fa-fw" aria-hidden="true"></i>&nbsp; Sunucuya Mesaj Gönder</a>
 
-			  <a class="list-group-item" href="?sayfa=sunucubilgi"><i class="fa fa-support fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Bilgisi</a>
+			  <a class="list-group-item" href="index.php?sayfa=sunucubilgi"><i class="fa fa-support fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Bilgisi</a>
 			  
-<a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=sunucuharitasi"><i class="fa fa-user-o fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Haritası</a>
+<a class="list-group-item" href="index.php?sayfa=sunucuharitasi"><i class="fa fa-user-o fa-fw" aria-hidden="true"></i>&nbsp; Sunucu Haritası</a>
 
-<a class="list-group-item" href="http://panel.ts3.web.tr/yedekkur.php"><i class="fa fa-close fa-fw" aria-hidden="true"></i>&nbsp; Yedek Yönetimi</a>
+<a class="list-group-item" href="yedekkur.php"><i class="fa fa-close fa-fw" aria-hidden="true"></i>&nbsp; Yedek Yönetimi</a>
 
-<a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=botyonetim"><i class="fa fa-plus-circle fa-fw" aria-hidden="true"></i>&nbsp; Bot Yönetimi</a>
+<a class="list-group-item" href="index.php?sayfa=botyonetim"><i class="fa fa-plus-circle fa-fw" aria-hidden="true"></i>&nbsp; Bot Yönetimi</a>
 
-<a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=sunucuyuac" style="color: red;"></i><a href="http://panel.ts3.web.tr/index.php?sayfa=sunucuyuac"class="btn btn-success btn-block" role="button">Sunucuyu Başlat!</a></a>
+<a class="list-group-item" href="index.php?sayfa=sunucuyuac" style="color: red;"></i><a href="index.php?sayfa=sunucuyuac"class="btn btn-success btn-block" role="button">Sunucuyu Başlat!</a></a>
 
-<a class="list-group-item" href="http://panel.ts3.web.tr/index.php?sayfa=sunucuyukapat" style="color: red;"></i><a href="http://panel.ts3.web.tr/index.php?sayfa=sunucuyukapat" class="btn btn-danger btn-block" role="button">Sunucuyu Kapat!</a></a>
+<a class="list-group-item" href="index.php?sayfa=sunucuyukapat" style="color: red;"></i><a href="index.php?sayfa=sunucuyukapat" class="btn btn-danger btn-block" role="button">Sunucuyu Kapat!</a></a>
 
 
             </div>
@@ -334,5 +334,8 @@ if( isset($_GET['yedek']) ) {
 
 
 </html>
+
+
+
 
 
